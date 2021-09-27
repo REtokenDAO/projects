@@ -16,6 +16,11 @@
 
 ## Potential Solutions Partners
 
+### User Experience (UX / UI)
+
+#### Deal Box (dlbx.io)
+- https://dlbx.io/
+
 ### Crowdfunding
 
 #### Oasis Pro Markets
