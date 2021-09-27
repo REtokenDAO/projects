@@ -4,6 +4,11 @@
 
 ## Potential Solutions Partners
 
+### Solar
+
+#### Namaste Solar
+* https://www.namastesolar.com/
+
 ### Mosaic Housing
 * https://mosaic-housing.com/
 
