@@ -5,6 +5,7 @@
 ## Potential Solutions Partners
 
 ### Mosaic Housing
+* https://mosaic-housing.com/
 
 # Software Track
 
