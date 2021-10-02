@@ -60,8 +60,9 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 * tt0wg3 | Fri 4-6p EDT / 01Oct2021
 * tt0wg4 | Fri 9-11p EDT / 01Oct2021
 * tt0wg5 | Sat 3-5p EDT / 02Oct2021
-* tt0wg6 | Sun 3-5p EDT / 03Oct2021
-* tt0wg7 | Mon 5-7p EDT / 04Oct2021
+* tt0wg6 | Sat 9-11p EDT / 02Oct2021
+* tt0wg7 | Sun 3-5p EDT / 03Oct2021
+* tt0wg8 | Mon 5-7p EDT / 04Oct2021
 
 > **NOTE:**
 > *We may not need all 6 of these working groups.  Goal is to have all requirements finalized for submission by 10p EDT on 04Oct2021.*
