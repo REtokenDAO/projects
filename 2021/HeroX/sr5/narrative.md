@@ -1,10 +1,20 @@
 # Narrative
 
 ## Problem
+
+### Hardware
 Currently most newly constructed homes in America are not built with American Made solar technology.
 
+### Software
+
+
 ## Solution
+
+### Hardware
 Improve the adoption of cutting-edge American Made solar technolog by creating "next-gen" subdivisions called TokenTown.  We will also deploy bitcoin mining hardware and/or other blockchain server infrastructure that will make use of the extra energy generated from this net positive energy subdivision.
+
+### Software
+Through the creative capitalization using Digital Assets / Security tokens this will allow the up-front costs of solar technology to be managable by the occupants of these dwellings.  By deploying TokenTown in designated Opportunity Zones (US Census tracts) this will also allow additional capital through Qualified Opportunity Funds.
 
 ## Team
 
