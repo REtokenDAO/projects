@@ -40,6 +40,10 @@ Through the creative capitalization using Digital Assets / Security tokens this 
 
 ## Team
 
+| Name                     | LinkedIn  | Bio      |
+| ------------------------ | --------- | -------- |
+| Jason Younker            | [Yonks](https://www.linkedin.com/in/yonks)  | [yonks.eth Ξ Jason Younker](https://twitter.com/yonks) is a serial entrepreneur that is passionate about creating win / win / win situations. He is having the most fun building "tokenized web3 communities". This is done using the latest business entity structures (WY DAO LLC, Limited Cooperative Associations, Public Benefit Corporations, and Series LLCs are specific examples). Prior to being a serial entrepreneur, he was an IT professional specializing in Network Operations and Engineering.  This allowed him to lead global teams and transition from a Silicon Valley startup surviving the Dot Com crash to an offshoring effort while working for corporate India. |
+
 ## Plan
 
 ### Create Github Repo / Project Page
