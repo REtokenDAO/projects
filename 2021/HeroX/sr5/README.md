@@ -41,31 +41,7 @@ The American-Made Solar Prize is directed and administered by the National Renew
 
 # Execution Strategy
 
-## Create Github Repo / Project Page
-> *You are here!!*
-
-## Create a REtoken Improvement Proposal (RIP) on Snapshot.org
-Using REtoken DAO's Governance Process, create a new REtoken Improvement Proposal (RIP) on [Snapshot.org](https://snapshot.org/#/retokendao.eth/) ([see Trello Card for details](https://trello.com/c/eEjmRbTF))
-
-## Schedule TokenTown - Working Groups
-Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).
-
-### Proposed TokenTown - Working Groups
-> Naming Convention:
-> 
-> tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
-
-* tt0wg1 | Mon 5-7p EDT / 27Sep2021
-* tt0wg2 | Thu 5-7p EDT / 30Sep2021
-* tt0wg3 | Fri 4-6p EDT / 01Oct2021
-* tt0wg4 | Fri 9-11p EDT / 01Oct2021
-* tt0wg5 | Sat 3-5p EDT / 02Oct2021
-* tt0wg6 | Sat 9-11p EDT / 02Oct2021
-* tt0wg7 | Sun 3-5p EDT / 03Oct2021
-* tt0wg8 | Mon 5-7p EDT / 04Oct2021
-
-> **NOTE:**
-> *We may not need all 6 of these working groups.  Goal is to have all requirements finalized for submission by 10p EDT on 04Oct2021.*
+moved these details over to [narrative.md](https://github.com/REtokenDAO/projects/blob/main/2021/HeroX/sr5/narrative.md).
 
 ## video “TokenTown the HOA destroyer!! A DAO net positive energy community”
 > * this video could maybe be used / refined for 90s “Ready!” video (submission requirement)
