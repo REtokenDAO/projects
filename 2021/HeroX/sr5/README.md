@@ -41,7 +41,7 @@ The American-Made Solar Prize is directed and administered by the National Renew
 
 # Execution Strategy
 
-moved these details over to [narrative.md](https://github.com/REtokenDAO/projects/blob/main/2021/HeroX/sr5/narrative.md).
+moved these details over to [narrative.md/#Plan](https://github.com/REtokenDAO/projects/blob/main/2021/HeroX/sr5/narrative.md#plan).
 
 ## video “TokenTown the HOA destroyer!! A DAO net positive energy community”
 > * this video could maybe be used / refined for 90s “Ready!” video (submission requirement)
