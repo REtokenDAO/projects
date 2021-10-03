@@ -1,12 +1,16 @@
+# PROJECT: "TokenTown" | American-Made Solar Prize Round 5
+
+<img src="https://trello.com/1/cards/611c8059f5626f324810f083/attachments/615939a1eaa97511c9215ed3/download/logo_REtoken.DAO_2021-09-18T1800.png" width=300 align=right>
+
 # Narrative
 
 ## Problem
 
 ### Hardware
-Currently most newly constructed homes in America are not built with American Made solar technology.
+Unfortunately today, most new homes that get built are built without using American Made solar technology.
 
 ### Software
-
+Initial capital is the biggest barrier for the proliferation of American Made solar technology.  New subdivisions being created are still done using antiquated methodologies without any technology.
 
 ## Solution
 
