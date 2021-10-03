@@ -69,7 +69,8 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 | tt0wg5 | Sat 3-5p EDT / 02Oct2021| [9239](https://poap.gallery/event/9239) | Coming soon|
 | tt0wg6 | Sat 9-11p EDT / 02Oct2021| [9263](https://poap.gallery/event/9263) | Coming soon|
 | tt0wg7 | Sun 3-5p EDT / 03Oct2021| [9311](https://poap.gallery/event/9311) | Coming soon|
-| tt0wg8 | Mon 5-7p EDT / 04Oct2021| [TBD](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg8 | Sun 7-9p EDT / 03Oct2021| [TBD](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg9 | Mon 5-7p EDT / 04Oct2021| [TBD](https://poap.gallery/event/8733) | Coming soon|
 
 > **NOTE:**
 > *We may not need all 6 of these working groups.  Goal is to have all requirements finalized for submission by 10p EDT on 04Oct2021.*
