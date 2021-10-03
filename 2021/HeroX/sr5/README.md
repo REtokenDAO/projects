@@ -49,7 +49,8 @@ moved these details over to [narrative.md/#Plan](https://github.com/REtokenDAO/p
 > * invite new teammates
 > * set expectations with potential solutions partners (that we will be seeking letter of commitment or letter of support)
 
-## Determine Solutions Partners
+## Brainstorm Solutions Partners
+- use [figma.com](https://www.figma.com/) as a tool?
 - reach out to potential solutions partners
 
 ## Draft letters of commitment / support
