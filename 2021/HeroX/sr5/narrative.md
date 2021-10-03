@@ -63,13 +63,13 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 | Wroking Group | Date and Time | POAP ID | Recording | 
 | ------------- | ------------- | --------| --------- |
 | tt0wg1 | Mon 5-7p EDT / 27Sep2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg2 | Thu 5-7p EDT / 30Sep2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg3 | Fri 4-6p EDT / 01Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg4 | Fri 9-11p EDT / 01Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg5 | Sat 3-5p EDT / 02Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg6 | Sat 9-11p EDT / 02Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg7 | Sun 3-5p EDT / 03Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg8 | Mon 5-7p EDT / 04Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg2 | Thu 5-7p EDT / 30Sep2021| [9028](https://poap.gallery/event/9028) | Coming soon|
+| tt0wg3 | Fri 4-6p EDT / 01Oct2021| [9138](https://poap.gallery/event/9138) | Coming soon|
+| tt0wg4 | Fri 9-11p EDT / 01Oct2021| [9153](https://poap.gallery/event/9153) | Coming soon|
+| tt0wg5 | Sat 3-5p EDT / 02Oct2021| [9239](https://poap.gallery/event/9239) | Coming soon|
+| tt0wg6 | Sat 9-11p EDT / 02Oct2021| [9263](https://poap.gallery/event/9263) | Coming soon|
+| tt0wg7 | Sun 3-5p EDT / 03Oct2021| [9311](https://poap.gallery/event/9311) | Coming soon|
+| tt0wg8 | Mon 5-7p EDT / 04Oct2021| [TBD](https://poap.gallery/event/8733) | Coming soon|
 
 > **NOTE:**
 > *We may not need all 6 of these working groups.  Goal is to have all requirements finalized for submission by 10p EDT on 04Oct2021.*
