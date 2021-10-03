@@ -56,14 +56,16 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 > 
 > tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
 
-* tt0wg1 | Mon 5-7p EDT / 27Sep2021
-* tt0wg2 | Thu 5-7p EDT / 30Sep2021
-* tt0wg3 | Fri 4-6p EDT / 01Oct2021
-* tt0wg4 | Fri 9-11p EDT / 01Oct2021
-* tt0wg5 | Sat 3-5p EDT / 02Oct2021
-* tt0wg6 | Sat 9-11p EDT / 02Oct2021
-* tt0wg7 | Sun 3-5p EDT / 03Oct2021
-* tt0wg8 | Mon 5-7p EDT / 04Oct2021
+| Wroking Group | Date and Time | POAP ID | Recording | 
+| ------------- | ------------- | --------| --------- |
+| tt0wg1 | Mon 5-7p EDT / 27Sep2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg2 | Thu 5-7p EDT / 30Sep2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg3 | Fri 4-6p EDT / 01Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg4 | Fri 9-11p EDT / 01Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg5 | Sat 3-5p EDT / 02Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg6 | Sat 9-11p EDT / 02Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg7 | Sun 3-5p EDT / 03Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg8 | Mon 5-7p EDT / 04Oct2021| [8733](https://poap.gallery/event/8733) | Coming soon|
 
 > **NOTE:**
 > *We may not need all 6 of these working groups.  Goal is to have all requirements finalized for submission by 10p EDT on 04Oct2021.*
