@@ -21,24 +21,24 @@ Problem, solution, team, and plan
 # Narrative
 <img src="https://trello.com/1/cards/613a47499073e135adfb6d08/attachments/614955b3bf0316504bd434dd/previews/614955b4bf0316504bd434e5/download/image.png" width=300 align=right>
 
-## Problem
+# Problem
 
-### Hardware
+## Hardware
 Unfortunately today, most new homes get built without using the latest American-Made solar technology.
 
-### Software
+## Software
 Initial capital is the biggest barrier for the proliferation of American Made solar technology.  New subdivisions being created are still done using antiquated methodologies without any technology.
 
-## Solution
+# Solution
 <img src="https://trello.com/1/cards/611c8059f5626f324810f083/attachments/615939a1eaa97511c9215ed3/download/logo_REtoken.DAO_2021-09-18T1800.png" width=300 align=right>
 
-### Hardware
+## Hardware
 Improve the adoption of cutting-edge American Made solar technolog by creating "next-gen" subdivisions called TokenTown.  We will also deploy bitcoin mining hardware and/or other blockchain server infrastructure that will make use of the extra energy generated from this net positive energy subdivision.
 
-### Software
+## Software
 Through the creative capitalization using Digital Assets / Security tokens this will allow the up-front costs of solar technology to be managable by the occupants of these dwellings.  By deploying TokenTown in designated Opportunity Zones (US Census tracts) this will also allow additional capital through Qualified Opportunity Funds.
 
-## Team
+# Team
 
 | Name                     | LinkedIn  | Bio      |
 | ------------------------ | --------- | -------- |
@@ -48,7 +48,10 @@ Through the creative capitalization using Digital Assets / Security tokens this 
 | Daks Balakrishnan        | [LinkedIn](https://www.linkedin.com/in/daks)  | Daks Balakrishnan is a Realtor, Developer, Investor, and currently lead at healthcare company. He is passionate about Financial Independence and got interested in FIRE movement, which led him to Real Estate and blockchain technology projects such as RETokenDAO, TokenTownDAO, etc. |
 | Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/)  | Chadd McNicholas leads an advanced analytics platform team enabling business intelligence for a consumer services company. He has been very active in DeFi for about a year. REToken is his first DAO participation |
 
-## Plan
+# Plan
+
+## Ready! Phase
+Submission package deadline = 05Oct2021
 
 ### Create Github Repo / Project Page
 > *You are here!!*
