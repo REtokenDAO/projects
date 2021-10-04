@@ -26,7 +26,7 @@ Problem, solution, team, and plan
 # Problem
 
 ## Hardware
-Unfortunately today, most new homes get built without using the latest American-Made solar technology.
+Unfortunately today, most new homes get built without using the latest American-Made solar technology.  Lack of adoption in underserved neighborhoods due to cost of installation of solar technology.
 
 ## Software
 Initial capital is the biggest barrier for the proliferation of American Made solar technology.  New subdivisions being created are still done using antiquated methodologies without any technology.
