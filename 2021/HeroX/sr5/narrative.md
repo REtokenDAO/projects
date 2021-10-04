@@ -81,4 +81,4 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 | tt0wg6 | Sat 9-11p EDT / 02Oct2021| [9311](https://poap.gallery/event/9311) | Coming soon|
 | tt0wg7 | Sun 3-5p EDT / 03Oct2021| [9345](https://poap.gallery/event/9345) | Coming soon|
 | tt0wg8 | Sun 7-9p EDT / 03Oct2021| [9365](https://poap.gallery/event/9365) | Coming soon|
-| tt0wg9 | Mon 5-7p EDT / 04Oct2021| [TBD](https://poap.gallery/event/) | Coming soon|
+| tt0wg9 | Mon 5-7p EDT / 04Oct2021| [<img src="https://trello.com/1/cards/6151af132620538895b2ef7c/attachments/615b4f358b8f4f1ff79bf437/download/tokentowndao-working-group-9-tt0wg8-the-hoa-destroyer-project-by-retokendao-2021-logo-1633359798374-100.jpg">](https://poap.gallery/event/9432) | Coming soon|
