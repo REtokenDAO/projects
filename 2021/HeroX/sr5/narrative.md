@@ -4,6 +4,8 @@
 <img src="https://trello.com/1/cards/6151af132620538895b2ef7c/attachments/6151af448674791ff7027034/download/image.jpeg" width=500 align=right>
 
 ### 1) 90-second video (public)
+https://www.youtube.com/watch?v=cUgMPa2RLxg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cUgMPa2RLxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2) Cover Page Content
 
