@@ -74,8 +74,8 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 | Wroking Group | Date and Time | POAP ID | Recording | 
 | ------------- | ------------- | --------| --------- |
 | tt0wg1 | Mon 5-7p EDT / 27Sep2021| [<img src="https://storage.googleapis.com/poapmedia/retoken-the-real-estate-dao-tokentown-working-group-1-tt0wg1-the-hoa-destroyer-2021-logo-1632763014688.png" width=75 align=center>](https://poap.gallery/event/8733) | Coming soon|
-| tt0wg2 | Thu 5-7p EDT / 30Sep2021| [9138](https://poap.gallery/event/9138) | Coming soon|
-| tt0wg3 | Fri 4-6p EDT / 01Oct2021| [9153](https://poap.gallery/event/9153) | Coming soon|
+| tt0wg2 | Thu 5-7p EDT / 30Sep2021| [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-2-tt0wg2-the-hoa-destroyer-project-by-retokendao-2021-logo-1633051317533.png" width=75 align=center>](https://poap.gallery/event/9138) | Coming soon|
+| tt0wg3 | Fri 4-6p EDT / 01Oct2021| [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-3-tt0wg3-the-hoa-destroyer-project-by-retokendao-2021-logo-1633059212583.png" width=75 align=center>](https://poap.gallery/event/9153) | Coming soon|
 | tt0wg4 | Fri 9-11p EDT / 01Oct2021| [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-4-tt0wg4-the-hoa-destroyer-project-by-retokendao-2021-logo-1633127940609.png" width=75 align=center>](https://poap.gallery/event/9239) | Coming soon|
 | tt0wg5 | Sat 3-5p EDT / 02Oct2021| [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-5-tt0wg5-the-hoa-destroyer-project-by-retokendao-2021-logo-1633156533858.png" width=75 align=center>](https://poap.gallery/event/9263) | Coming soon|
 | tt0wg6 | Sat 9-11p EDT / 02Oct2021| [9311](https://poap.gallery/event/9311) | Coming soon|
