@@ -1,7 +1,6 @@
 # Narrative
 
 
-
 # Problem
 
 Unfortunately today, most new homes get built without using the latest American-Made solar technology. Lack of adoption in underserved neighborhoods is the highest due to the cost of installation of solar technology. Our position is that builders don't have a financial incentive to plan intentional solar-based communities and most families don't have ready access to the capital. We are solving both sides of the incentive and capital stack, and doing it in a net-positive energy solution.
@@ -30,9 +29,11 @@ Our diverse leadership team includes several people of color, women, and a perso
 | Amy Marcella             | [LinkedIn](https://www.linkedin.com/in/amilou-marcella-79163158/)<br>[@amilou2008](https://twitter.com/amilou2008) | Amy Marcella is a serial entrepreneur currently working as a Global Market Strategist Consultant for Sundial Solar Developers with solar projects in Mississippi and Ghana. She has experience in Healthcare Global Recruitment Management, Healthcare Staffing and Contracting, Real Estate Development, Renewable Energy Projects, and Telecommunication Network. |
 | Daks Balakrishnan        | [LinkedIn](https://www.linkedin.com/in/daks)<br>[@daks](https://twitter.com/daks) | Daks Balakrishnan is a Realtor, Developer, Investor, and currently lead at healthcare company. He is passionate about Financial Independence and got interested in FIRE movement, which led him to Real Estate and blockchain technology projects such as REtoken DAO and TokenTown DAO. |
 | Poopster Wilson | [@0xYieldFarmer](https://twitter.com/0xYieldFarmer) | Poopster Wilson has spent the last few years working in crypto and more specifically defi. He is extremely interested in DAOs, self sustaining communities and using renewable living/energy to make help solve social, housing, and financial issues for everyone. |
-| Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/)  | Chadd McNicholas has an extensive background in engineering, advanced analytics, and product management. He dove into DeFi as a hobby about a year ago, and has been very active since. REtoken is his first DAO participation. |
-| crushhhh                 | [@crushhhhxo](https://twitter.com/crushhhhxo) | crushhhh has a BS in Computer Information Systems from the University of Houston. She is a former IT Business Analyst who has recently taken an interest in DeFi and DAOs. She is passionate about using technology to better the lives of people everywhere. |
+| Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/) | Chadd McNicholas has an extensive background in engineering, advanced analytics, and product management. He dove into DeFi as a hobby about a year ago, and has been very active since. REtoken is his first DAO participation. |
+| Amanda Battaglia         | [@crushhhhxo](https://twitter.com/crushhhhxo) | Amanda Battaglia has a BS in Computer Information Systems from the University of Houston. She is a former IT Business Analyst who has recently taken an interest in DeFi and DAOs. She is passionate about using technology to better the lives of people everywhere. |
+| Ryan Stokes              | [@rynstones1](https://twitter.com/rynstones1) | Ryan Stokes is a former research scientist turned construction manager. He has been a bitcoin enthusiast since 2009. He is excited to be a part of the democratization of finance and opening investment across asset classes and increasing solar penetration into LMI communities! |
 | Evan Kim                 |  | Evan Kim is a DeFi builder and is interested in all things related to crypto data analytics. Evan's university education was centered around theoretical mathematics which has given him a strong foundation towards his passion about the decentralized web3 future and technology in general. |
+| Everything Blockchain    |  | Everything Blockchain is a crypto content creator. Started off as an investor in 2016 before living and breathing crypto. A blockchain advocate who likes to write about upcoming technologies in blockchain space and that interest has lead him to DAOs. |
 
 # Plan
 
