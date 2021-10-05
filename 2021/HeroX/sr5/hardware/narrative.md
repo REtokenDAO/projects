@@ -10,7 +10,7 @@ Improve the adoption of cutting-edge American Made solar technology by creating 
 
 The initial TokenTown and hopefully all subsequent models will be built in Qualified Opportunity Zone (OZ) Fund tracts across the country. The initial parcel will be in sunny Colorado. Opportunity Zones are identified urban and rural initiatives chosen by every Governor. By emphasizing solar and providing non-traditional capital through blockchain financing, we expect a high number of our community members will be people of color, single mothers, and LGBTQ.
 
-TokenTown will likely be financed through SEC registered Regulation Crowdfunding (Reg. CF) with securities and security tokens. 
+TokenTown will likely be financed through SEC registered Regulation Crowdfunding (Reg. CF) with securities and security tokens. Two of our team members have previously launched a Reg. CF offering (which unfortunately got through due diligence and launched in March, 2020!) but are extremely familiar with the process and work involved.
 
 **Accomplishments and Team**
 
