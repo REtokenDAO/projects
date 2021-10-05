@@ -13,15 +13,15 @@ Our solution turns entire neighborhoods into microgrids with advanced capabiliti
 # Solution
 [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-livestream-exclusive-poap-for-streamyard-participants-2021-logo-1633392258356.png" width=275 align=right>](https://github.com/REtokenDAO/projects/tree/main/2021/HeroX/sr5/hardware)
 
-Improve the adoption of cutting-edge American Made solar technology by creating "next-gen" subdivisions called TokenTown. TokenTown is going to be a model neighborhood we can deploy all over the country.
+Improve the adoption of cutting-edge American Made solar technology by creating "next-gen" subdivisions called TokenTown. These TokenTowns are community owned and operated, architected on a globally scalable model.
 
 Every building in TokenTown will be built using the best American-Made solar solutions for these reasons:
 1) Extra energy generated within the TokenTown micro-grid can be utilized by higher consuming buildings. This promotes community effeciencies and synergy while maintaing low costs;
-2) Net positive energy will be used to power bitcoin, crypto mining operations and other blockchain infrastructure that provides returns in the form of digital assets or cryptocurrency.
-3) Digital assets generated through crypto mining operations can be used to offset rent or mortgage costs.
-> This self-contained cycle is sustainable, affordable, and perpetual which can provide affordable housing and most important to us, use solar power to turn renters into owners. Even after accounting for the mining operations, we expect our solar deployment to end up net energy positive.
+2) Net positive energy will be used to power bitcoin, crypto mining operations, and other blockchain infrastructure that provides returns in the form of digital assets or cryptocurrency;
+3) Digital assets generated through crypto mining operations will be applied to increase housing affordability for residents.
+> Using solar power, the TokenTown model is sustainable, affordable, and perpetual. This results in the change to the underlying narrative in these Opportunity Zones.  This ultimately creates affordable housing for TokenTown residents.
 
-We will deploy this TokenTown model in Colorado within an opportunity zone. We will continue to focus future TokenTown deployments in designated Opportunity Zones (OZ) as well. The initial parcel will be in sunny Colorado which is renowned for over 300 days of sunshine a year. Opportunity Zones are identified urban and rural initiatives chosen by every Governor. By emphasizing solar and providing non-traditional capital through security tokens, we expect a high number of our community members will be people of color, single mothers, and LGBTQ.
+We will deploy this TokenTown model in Colorado within an opportunity zone. We will continue to focus future TokenTown deployments in designated Opportunity Zones (OZ) as well. The initial parcel will be in sunny Colorado which is renowned for over 300 days of sunshine a year. Opportunity Zones are identified urban and rural initiatives chosen by every Governor. By emphasizing solar and providing non-traditional capital through security tokens, we expect a diverse community including historically under-represented populations.
 
 TokenTown will likely be capitalized through a series of SEC registered Regulation Crowdfunding (RegCF) offerings with security tokens using a variety of FinTech partners to increase exposure to this unique opportunity. Two of our team members have prior experience launching a RegCF offering which they brought to market in March 2020.
 
