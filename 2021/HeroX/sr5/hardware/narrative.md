@@ -6,7 +6,9 @@
 
 Unfortunately today, most new homes get built without using the latest American-Made solar technology. Lack of adoption in underserved neighborhoods is the highest due to the cost of installation of solar technology. Our position is that builders don't have a financial incentive to plan intentional solar-based communities and most families don't have ready access to the capital. We are solving both sides of the incentive and capital stack, and doing it in a net-positive energy solution.
 
-In Denver in 2021, the average home sold for $641,000 and the average solar installation was over $17,000. Rent is predicted to increase another 25% from its already high average of $1,800 a month. For most families, solar installations are simply out of reach. Our solution turns entire neighborhoods into microgrids with advanced capabilities. 
+In Denver in 2021, the average home sold for over $651,000 (source: Colorado Association of Realtors) and the average solar installation was $13,000-18,000 (source: energysage.com). Rent is predicted to increase another 25% from its already high average of over $1,800 a month. For most families, solar installations are simply out of reach. Additionally, only 4.18% of Colorado's current power comes from solar. Colorado Governor Jared Polis has previously stated he would like fully renewable energy in place by 2040. 
+
+Our solution turns entire neighborhoods into microgrids with advanced capabilities. This is the bridge to get there.
 
 # Solution
 [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-livestream-exclusive-poap-for-streamyard-participants-2021-logo-1633392258356.png" width=275 align=right>](https://github.com/REtokenDAO/projects/tree/main/2021/HeroX/sr5/hardware)
