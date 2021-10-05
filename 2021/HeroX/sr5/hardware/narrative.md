@@ -12,7 +12,7 @@ TokenTown will likely be financed through SEC registered Regulation Crowdfunding
 
 **Team**
 
-Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of the community. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of community.
+Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of this effort. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing.
 
 | Name                     | LinkedIn<br>Twitter  | Bio      |
 | ------------------------ | --------- | -------- |
