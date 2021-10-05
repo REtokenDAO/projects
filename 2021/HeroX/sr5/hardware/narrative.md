@@ -36,7 +36,7 @@ The recent excitement surrounding this TokenTown project and our team's submissi
 ## Team Accomplishments
 <img src="https://trello.com/1/cards/615c932ad0e9ae4bbddd0ea1/attachments/615c93adfb111249c67dcd73/download/screenshot_Snapshot.org_2021-10-05T1200MDT.png" width=350 align=right>
 
-* Grand Prize Winner: Gitcoin Decentralized Governance Hackathon
+* Grand Prize Winner: Gitcoin Decentralized Governance Hackathon (Aug 17, 2021 - Sep 7, 2021)
 * Launched three tokenized web3 communities:
 > 1) REtoken ([$RETOKEN](https://snapshot.org/#/retokendao.eth))
 > 2) TokenTown ([$TTOWN](https://snapshot.org/#/ss.tokentowndao.eth))
