@@ -4,11 +4,15 @@ Unfortunately today, most new homes get built without using the latest American-
 
 **Solution**
 
-Improve the adoption of cutting-edge American Made solar technology by creating "next-gen" subdivisions called TokenTown. TokenTown is going to be a model neighborhood we can deploy all over the country. Every house will have solar by design for three reasons: 1) the extra power generated can support larger households and promote community living without significantly higher costs; 2) the power not needed by the house can support super-computers that create cryptocurrency "cryptomines" which are currently cost prohibitive because 
+Improve the adoption of cutting-edge American Made solar technology by creating "next-gen" subdivisions called TokenTown. TokenTown is going to be a model neighborhood we can deploy all over the country. Every house will have solar by design for three reasons: 1) the extra power generated can support larger households and promote community living without significantly higher costs; 2) the power not needed by the house can support super-computers that create cryptocurrency "cryptomines" which are currently cost prohibitive because of their excessive power consumption; and 3) the value of the cryptocurrency can be used to offset rent or mortgage costs. This self-contained cycle is sustainable, affordable, and perpetual which can provide affordable housing and most important to us, use solar power to turn renters into owners. Even after accounting for the cryptomines, we expect out solar deployment to end up net energy positive.
 
-It will be built in Qualified Opportunity Zone (OZ) Fund tracts, with the initial parcel in sunny Colorado.
+The initial TokenTown and hopefully all subsequent models will be built in Qualified Opportunity Zone (OZ) Fund tracts across the country. The initial parcel will be in sunny Colorado. Opportunity Zones are identified urban and rural initiatives chosen by every Governor. By emphasizing solar and providing non-traditional capital through blockchain financing, we expect a high number of our community members will be people of color, single mothers, and LGBTQ.
 
-TokenTown is a model subdivision that is going to be financed through SEC registered Regulation Crowdfunding with securities and security tokens. We will also deploy bitcoin mining hardware and/or other blockchain server infrastructure that will make use of the extra energy generated from this net positive energy subdivision.
+TokenTown will likely be financed through SEC registered Regulation Crowdfunding (Reg. CF) with securities and security tokens. 
+
+**Team**
+
+Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in institutional finance, IT, blockchain, decentralized finance, and community building. 
 
 Name	LinkedIn
 Twitter	Bio
