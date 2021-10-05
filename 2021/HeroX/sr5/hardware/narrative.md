@@ -12,7 +12,7 @@ TokenTown will likely be financed through SEC registered Regulation Crowdfunding
 
 **Team**
 
-Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of this effort. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing.
+Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. 
 
 | Name                     | LinkedIn<br>Twitter  | Bio      |
 | ------------------------ | --------- | -------- |
@@ -23,3 +23,11 @@ Our diverse leadership team includes several people of color, women, and a perso
 | Poopster Wilson | [Twitter](https://twitter.com/0xYieldFarmer) | Poopster Wilson has spent the last few years working in crypto and more specifically defi. He is extremely interested in DAOs, self sustaining communities and using renewable living/energy to make help solve social, housing, and financial issues for everyone. |
 | Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/)  | Chadd McNicholas leads an advanced analytics platform team enabling business intelligence for a consumer services company. He has been very active in DeFi for about a year. REtoken is his first DAO participation |
 | Evan Kim                 | LinkedIn<br>Twitter  | Evan Kim is a DeFi builder and is interested in all things related to crypto data analytics. Evan's university education was centered around theoretical mathematics which has given him a strong foundation towards his passion about the decentralized web3 future and technology in general. |
+
+Additionally, we are connecting with American made solar solutions partners who are equipped to help us install an entire new community, reviewing SEC and FINRA requirements for this type of offering and interviewing potential vendors and transfer agents. We're in discussion with a Colorado based home builder with capacity for TokenTown who can deliver quality construction for significantly lower prices than standard construction. We're reviewing local permitting and zoning requirements to maximize potential income opportunities for community members. We are already a functioning Decentralized Autonomous Organization, a legal business structure that allows for democratized governance and are familiar with the infrastructure needed to support it. We are also in talks with the largest Opportunity Zone Fund consultant in the US, who is in support of our effort.
+
+**Plan**
+
+In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of this effort. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing. 
+
+
