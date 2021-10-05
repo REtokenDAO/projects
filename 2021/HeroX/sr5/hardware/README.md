@@ -9,8 +9,8 @@
 > * *TokenTown | a Next-Gen Solar Powered Community*
 
 # Video (90-second)
-[![TokenTown | a Next-Gen Solar Powered Community | American-Made Solar Prize Round 5 | Hardware Track](http://img.youtube.com/vi/cUgMPa2RLxg/0.jpg)](http://www.youtube.com/watch?v=/cUgMPa2RLxg)
-> http://www.youtube.com/watch?v=/cUgMPa2RLxg
+[![TokenTown | a Next-Gen Solar Powered Community | American-Made Solar Prize Round 5 | Hardware Track](http://img.youtube.com/vi/cUgMPa2RLxg/0.jpg)](http://www.youtube.com/watch?v=cUgMPa2RLxg)
+> http://www.youtube.com/watch?v=cUgMPa2RLxg
 
 # Key Project Members
 | Name                     | LinkedIn / Twitter  |
