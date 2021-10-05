@@ -70,7 +70,7 @@ Additionally, we are connecting with American made solar solutions partners who 
 After we raise our social proof governance round, we expect to finalize our Solar Solution partners, identify and purchase land in a Colorado OZ, finalize a contract with a construction vendor, complete all necessary permitting, and continue our ongoing dialogue with community members and other local stakeholders. We also hope to finalize the model that we can replicate across the United States.
 
 ### TokenTown - Working Groups
-> *Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).*
+REtoken has a winning track record of using a series of working groups to accomplish various projects.  This includes their initial "Tokenomics Working Groups" as well as their Gitcoin DGov Hackathon Working Groups (which resulted in team winning Grand Prize of that hackathon).
 
 | Working Group | Date and<br>Time | POAP |
 | ------------- | ---------------- | -----|
@@ -91,9 +91,14 @@ After we raise our social proof governance round, we expect to finalize our Sola
 > tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
 
 ## Set! [R5]
-* We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing.
-* We were recently asked to submit a white paper regarding this project to be featured at a leading investment conference in December, 2021, and asked to join several exclusive masterminds for thought leadership.
-> *insert items from the summary slide*
+* TokenTown Colorado ($TTCO) will be launching a "Founding Citizen" utility NFT (Non-Fungible Token) limited to a quantity of 32 (1 $ETH/ea).  This NFT will provide a component of a hybrid DAO Governance model for TokenTown Colorado.  This will also indicate desire from the community for this TokenTown housing model.
+* Conversations with potential solutions partners will continue to unfold
+* Finalize on capital stack for TokenTownCO "Phase 1: Parcel Purchase"
+* Complete any necessary local and/or regional zoning and permitting
+* Ongoing Community Governance with $TTCO Founding Citizens
 
 ## Go! [R5]
-> *insert items from the summary slide*
+* Refine process to be scalable
+* RFP for additional American Made Solar contractors
+* Monitor energy savings and usage to optimize
+* Identify future Opportunity Zone parcels next TokenTown communities
