@@ -40,3 +40,23 @@ Our diverse leadership team includes several people of color, women, and a perso
 Additionally, we are connecting with American made solar solutions partners who are equipped to help us install an entire new community, reviewing SEC and FINRA requirements for this type of offering and interviewing potential vendors and transfer agents. We're in discussion with a Colorado based home builder with capacity for TokenTown who can deliver quality construction for significantly lower prices than standard construction. We're reviewing local permitting and zoning requirements to maximize potential income opportunities for community members. We are already a functioning Decentralized Autonomous Organization, a legal business structure that allows for democratized governance and are familiar with the infrastructure needed to support it. We are also in talks with the largest Opportunity Zone Fund consultant in the US, who is in support of our effort.
 
 After we raise our social proof governance round, we expect to finalize our Solar Solution partners, identify and purchase land in a Colorado OZ, finalize a contract with a construction vendor, complete all necessary permitting, and continue our ongoing dialogue with community members and other local stakeholders. We also hope to finalize the model that we can replicate across the United States.
+
+### TokenTown - Working Groups
+> *Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).*
+
+| Working Group | Date and<br>Time | POAP | Recording | 
+| ------------- | ------------- | --------| --------- |
+| tt0wg1 | 27Sep2021<br>Mon 5-7p EDT | [<img src="https://storage.googleapis.com/poapmedia/retoken-the-real-estate-dao-tokentown-working-group-1-tt0wg1-the-hoa-destroyer-2021-logo-1632763014688.png" width=75 align=center>](https://poap.gallery/event/8733) | Coming soon|
+| tt0wg2 | 30Sep2021<br>Thu 5-7p EDT / | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-2-tt0wg2-the-hoa-destroyer-project-by-retokendao-2021-logo-1633051317533.png" width=75 align=center>](https://poap.gallery/event/9138) | Coming soon|
+| tt0wg3 | 01Oct2021<br>Fri 4-6p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-3-tt0wg3-the-hoa-destroyer-project-by-retokendao-2021-logo-1633059212583.png" width=75 align=center>](https://poap.gallery/event/9153) | Coming soon|
+| tt0wg4 | 01Oct2021<br>Fri 9-11p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-4-tt0wg4-the-hoa-destroyer-project-by-retokendao-2021-logo-1633127940609.png" width=75 align=center>](https://poap.gallery/event/9239) | Coming soon|
+| tt0wg5 | 02Oct2021<br>Sat 3-5p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-5-tt0wg5-the-hoa-destroyer-project-by-retokendao-2021-logo-1633156533858.png" width=75 align=center>](https://poap.gallery/event/9263) | Coming soon|
+| tt0wg6 | 02Oct2021<br>Sat 9-11p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-6-tt0wg6-the-hoa-destroyer-project-by-retokendao-2021-logo-1633221595016.png" width=75 align=center>](https://poap.gallery/event/9311) | Coming soon|
+| tt0wg7 | 03Oct2021<br>Sun 3-5p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-7-tt0wg7-the-hoa-destroyer-project-by-retokendao-2021-logo-1633285192703.png" width=75 align=center>](https://poap.gallery/event/9345) | Coming soon|
+| tt0wg8 | 03Oct2021<br>Sun 7-9p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-8-tt0wg8-the-hoa-destroyer-project-by-retokendao-2021-logo-1633308813974.png" width=75 align=center>](https://poap.gallery/event/9365) | Coming soon|
+| tt0wg9 | 04Oct2021<br>Mon 5-7p EDT | [<img src="https://trello.com/1/cards/6151af132620538895b2ef7c/attachments/615b558818538b3e7c8e4f7f/download/tokentowndao-working-group-9-tt0wg8-the-hoa-destroyer-project-by-retokendao-2021-logo-1633359798374-75.png">](https://poap.gallery/event/9432) | Coming soon|
+| tt0wg10 | 05Oct2021<br>Tue 11a-1p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-10-tt0wg10-the-hoa-destroyer-project-by-retokendao-2021-logo-1633405145340.png" width=75 align=center>](https://poap.gallery/event/9511) | Coming soon|
+
+> Naming Convention:
+> 
+> tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
