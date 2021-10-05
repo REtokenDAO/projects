@@ -18,7 +18,8 @@ Improve the adoption of cutting-edge American Made solar technology by creating 
 Every building in TokenTown will be built using the best American-Made solar solutions for these reasons:
 1) Extra energy generated within the TokenTown micro-grid can be utilized by higher consuming buildings. This promotes community effeciencies and synergy while maintaing low costs;
 2) Net positive energy will be used to power bitcoin, crypto mining operations and other blockchain infrastructure that provides returns in the form of digital assets or cryptocurrency.
-3) Digital assets generated through crypto mining operations can be used to offset rent or mortgage costs. This self-contained cycle is sustainable, affordable, and perpetual which can provide affordable housing and most important to us, use solar power to turn renters into owners. Even after accounting for the mining operations, we expect our solar deployment to end up net energy positive.
+3) Digital assets generated through crypto mining operations can be used to offset rent or mortgage costs.
+> This self-contained cycle is sustainable, affordable, and perpetual which can provide affordable housing and most important to us, use solar power to turn renters into owners. Even after accounting for the mining operations, we expect our solar deployment to end up net energy positive.
 
 We will deploy this TokenTown model in Colorado within an opportunity zone. We will continue to focus future TokenTown deployments in designated Opportunity Zones (OZ) as well. The initial parcel will be in sunny Colorado which is renowned for over 300 days of sunshine a year. Opportunity Zones are identified urban and rural initiatives chosen by every Governor. By emphasizing solar and providing non-traditional capital through security tokens, we expect a high number of our community members will be people of color, single mothers, and LGBTQ.
 
