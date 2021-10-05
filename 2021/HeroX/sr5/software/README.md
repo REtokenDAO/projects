@@ -26,4 +26,12 @@
 | Ryan Stokes              | [@rynstones1](https://twitter.com/rynstones1) |
 
 # Project Keywords
-Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced
+Solar, Renewable Energy, Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced
+
+# Location
+
+REtoken DAO LLC<br>
+5830 E 2nd St # 92707<br>
+Casper, WY 82609-4308
+
+REtoken DAO LLC is registered in Wyoming as a DAO LLC
