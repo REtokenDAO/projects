@@ -68,9 +68,6 @@ Using REtoken DAO's Governance Process, create a new REtoken Improvement Proposa
 Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).
 
 ### TokenTown - Working Groups
-> Naming Convention:
-> 
-> tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
 
 | Working Group | Date and<br>Time | POAP | Recording | 
 | ------------- | ------------- | --------| --------- |
@@ -84,3 +81,7 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 | tt0wg8 | 03Oct2021<br>Sun 7-9p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-8-tt0wg8-the-hoa-destroyer-project-by-retokendao-2021-logo-1633308813974.png" width=75 align=center>](https://poap.gallery/event/9365) | Coming soon|
 | tt0wg9 | 04Oct2021<br>Mon 5-7p EDT | [<img src="https://trello.com/1/cards/6151af132620538895b2ef7c/attachments/615b558818538b3e7c8e4f7f/download/tokentowndao-working-group-9-tt0wg8-the-hoa-destroyer-project-by-retokendao-2021-logo-1633359798374-75.png">](https://poap.gallery/event/9432) | Coming soon|
 | tt0wg10 | 05Oct2021<br>Tue 11a-1p EDT | [<img src="https://storage.googleapis.com/poapmedia/tokentowndao-working-group-10-tt0wg10-the-hoa-destroyer-project-by-retokendao-2021-logo-1633405145340.png" width=75 align=center>](https://poap.gallery/event/9511) | Coming soon|
+
+> Naming Convention:
+> 
+> tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
