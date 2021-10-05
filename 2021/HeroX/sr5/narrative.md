@@ -51,11 +51,11 @@ Through the creative capitalization using Digital Assets / Security tokens this 
 | Poopster Wilson | [@0xYieldFarmer](https://twitter.com/0xYieldFarmer) | Hi i'm poopster, I've spent the last few years working in crypto and more specifically defi. I'm extremely interested in DAOs,  self sustaining communities and using renewable living/energy to make help solve social, housing, and financial issues for everyone. |
 | Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/)<br>[@thechadd](https://twitter.com/thechadd) | Chadd McNicholas leads an advanced analytics platform team enabling business intelligence for a consumer services company. He has been very active in DeFi for about a year. REToken is his first DAO participation |
 | crushhhh                 | [@crushhhhxo](https://twitter.com/crushhhhxo) | crushhhh has a BS in Computer Information Systems from the University of Houston. She is a former IT Business Analyst who has recently taken an interest in DeFi and DAOs. She is passionate about using technology to better the lives of people everywhere. |
-| Evan Kim                 | LinkedIn<br>Twitter  | Evan Kim is a DeFi builder and is interested in all things related to crypto data analytics. Evan's university education was centered around theoretical mathematics which has given him a strong foundation towards his passion about the decentralized web3 future and technology in general. |
+| Evan Kim                 |  | Evan Kim is a DeFi builder and is interested in all things related to crypto data analytics. Evan's university education was centered around theoretical mathematics which has given him a strong foundation towards his passion about the decentralized web3 future and technology in general. |
 
 # Plan
 
-## Ready! Phase
+## Ready! [R5] 
 Submission package deadline = 05Oct2021
 
 ### Create Github Repo / Project Page
@@ -65,9 +65,7 @@ Submission package deadline = 05Oct2021
 Using REtoken DAO's Governance Process, create a new REtoken Improvement Proposal (RIP) on [Snapshot.org](https://snapshot.org/#/retokendao.eth/) ([see Trello Card for details](https://trello.com/c/eEjmRbTF))
 
 ### TokenTown - Working Groups
-Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).
-
-### TokenTown - Working Groups
+> *Propose that whomever participates in these working groups will be rewarded 50 $RETOKEN for each working group.  This is similar to previous working groups that REtoken DAO has held.  These token distributions will be itemized within the "Weekly TDP" (TDP = Treasury Distribution Proposal).*
 
 | Working Group | Date and<br>Time | POAP | Recording | 
 | ------------- | ------------- | --------| --------- |
@@ -85,3 +83,32 @@ Propose that whomever participates in these working groups will be rewarded 50 $
 > Naming Convention:
 > 
 > tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
+
+### Twitter Timeline | Ready! [R5]
+
+#### Aug-2021
+* 25 | @Yonks participates in his 1st @CityDao Community Call ([link to tweet](https://twitter.com/yonks/status/1430667153129320448))
+* 25 | @Yonks enters @STOmarket free ticket giveaway for @Vertalo_ Digital Assets & Securities Conference ([link to tweet](https://twitter.com/yonks/status/1430513922944212998))
+* 24 | @Yonks & @REtokenDAO minted $RETOKEN via @CoinviseCo ([link to tweet](https://twitter.com/yonks/status/1430320398609141762))
+* 24 | @Yonks hosts Zoom to discuss using Coinvise.co (Social Token Platform) ([link to tweet](https://twitter.com/yonks/status/1430265656398815237))
+* 20 | @Yonks acquires #FoundingCitizen NFT for @CityDao ([link to tweet](https://twitter.com/yonks/status/1428944975308460032))
+> *CityDAO = @Yonks 2nd personal exposure to DAOs.*
+* 20 | @Yonks continues to explore web3 and creates a @3boxdb profile. ([link to tweet](https://twitter.com/yonks/status/1428899556696236046))
+* 05 | @Yonks registers for Gitcoin [Decentralized Governance Hackathon](https://gitcoin.co/hackathon/dgov/onboard#) (Aug 17, 2021 - Sep 7, 2021) ([link to tweet](https://twitter.com/yonks/status/1423202093913939972))
+
+#### Jul-2021
+* 28 | @Yonks hosts 1st REtoken community call ([link to tweet](https://twitter.com/yonks/status/1420534737798500355))
+* 26 | @Yonks registers REtoken DAO LLC as a Wyoming LLC ([link to tweet](https://twitter.com/REtokenDAO/status/1419553805369151490))
+* 22 | @Yonks invests in Regulation Crowdfunding offer for NYCE using WeFunder.com ([link to tweet](https://twitter.com/yonks/status/1418301867168124932))
+* 15-16 | @Yonks & Tyler attend National Opportunity Zone Expo hosted in Denver. Colorado Governor Jared Polis is keynote speaker (tweets: [1](https://twitter.com/yonks/status/1415745545075761152), [2](https://twitter.com/yonks/status/1415692789413605389) & many more)
+* 11-12 | @Yonks & Tyler attend 300 CEOs, Networking the Nations Summit (tweets: [1](https://twitter.com/yonks/status/1425441516663758848) & many more)
+> *This conference had a heavy focus on Opportunity Zones.*
+* 5 | @Yonks registers for National Opportunity Zone Expo hosted in Denver. ([link to tweet](https://twitter.com/yonks/status/1412165672616939529))
+
+#### Jun-2021
+* 26 | @Yonks attends SporkDAO Launch Party. This was his 1st exposure to POAPs. ([link to tweet](https://twitter.com/yonks/status/1408960443620610048))
+* 26 | @Yonks orders SporkDAO swag (the "$600 t-shirt"). ([link to tweet](https://twitter.com/yonks/status/1408895270515924994))
+> *SporkDAO = @Yonks 1st personal exposure to DAOs.*
+* 15 | initial team submitted FIBREE.org / Blocksquare.io 2021 Real Estate Tokenization Challenge
+
+## Set! Phase
