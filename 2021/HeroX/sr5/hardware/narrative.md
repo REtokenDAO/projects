@@ -27,12 +27,23 @@ TokenTown will likely be capitalized through a series of SEC registered Regulati
 
 # Accomplishments and Team
 
+
 ## Team Summary
-Our diverse leadership team includes people of color, women, single parents, and a person with a disability. We represent a multi-state team from CA, NY, PA, TN, NC, TX and CO. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of this effort. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing. We launched two DAOs in Wyoming (REtoken DAO and TokenTown DAO) and minted new social tokens. We held 11 working groups, wrote our plan, got partner vision buy in, and laid out a plan to solve solar-based affordable housing in the US. Leading CEOs in this space are excited to recommend our project.
+Our diverse leadership team includes people of color, women, single parents, and a person with a disability. We represent a multi-state team from CA, NY, PA, TN, NC, TX and CO. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building.
 
-We were recently asked to submit a white paper regarding this project to be featured at a leading investment conference in December, 2021, and asked to join several exclusive masterminds for thought leadership.
+The recent excitement surrounding this TokenTown project and our team's submission for the American-Made Solar Prize has resulted in continued community growth at an unprecedented rate.  During the past few weeks, through the intense efforts working on this project, our community has continued to grow beyond 150 people.
 
-## Grand Prize Winner: Gitcoin Decentralized Governance Hackathon
+## Team Accomplishments
+<img src="https://trello.com/1/cards/615c932ad0e9ae4bbddd0ea1/attachments/615c93adfb111249c67dcd73/download/screenshot_Snapshot.org_2021-10-05T1200MDT.png" width=350 align=right>
+
+* Grand Prize Winner: Gitcoin Decentralized Governance Hackathon
+* Launched three tokenized web3 communities:
+> 1) REtoken ([$RETOKEN](https://snapshot.org/#/retokendao.eth))
+> 2) TokenTown ([$TTOWN](https://snapshot.org/#/ss.tokentowndao.eth))
+> 3) TokenTownCO ([$TTCO](https://snapshot.org/#/co.tokentowndao.eth))
+> 
+> Reference: [What Is the Token Economy? (Oreilly.com)](https://www.oreilly.com/library/view/what-is-the/9781492072973/ch01.html)
+* REtoken DAO LLC & TokenTown DAO LLC are legal entities under the Wyoming DAO LLC law
 
 ## Team Table
 
@@ -80,6 +91,8 @@ After we raise our social proof governance round, we expect to finalize our Sola
 > tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
 
 ## Set! [R5]
+* We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing.
+* We were recently asked to submit a white paper regarding this project to be featured at a leading investment conference in December, 2021, and asked to join several exclusive masterminds for thought leadership.
 > *insert items from the summary slide*
 
 ## Go! [R5]
