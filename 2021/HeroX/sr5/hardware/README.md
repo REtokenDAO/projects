@@ -13,7 +13,16 @@
 > http://www.youtube.com/watch?v=/cUgMPa2RLxg
 
 # Key Project Members
-
+| Name                     | LinkedIn / Twitter  |
+| ------------------------ | --------- |
+| REtoken DAO LLC          | [LinkedIn](https://www.linkedin.com/company/retokendao/) / [@REtokenDAO](https://twitter.com/REtokenDAO) |
+| Jason Younker (Yonks)    | [LinkedIn](https://www.linkedin.com/in/yonks) / [@yonks](https://twitter.com/Yonks) |
+| Tyler Younker            | [LinkedIn](https://www.linkedin.com/in/tylerhart/) / [@TeamYonks](https://twitter.com/TeamYonks) |
+| Amy Marcella             | [LinkedIn](https://www.linkedin.com/in/amilou-marcella-79163158/) / [@amilou2008](https://twitter.com/amilou2008) |
+| Daks Balakrishnan        | [LinkedIn](https://www.linkedin.com/in/daks) / [@daks](https://twitter.com/daks) |
+| Poopster Wilson          | [@0xYieldFarmer](https://twitter.com/0xYieldFarmer) |
+| Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/) / [@thechadd](https://twitter.com/thechadd) |
+| crushhhh                 | [@crushhhhxo](https://twitter.com/crushhhhxo) |
 
 # Project Keywords
-Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced, Community
+Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced,
