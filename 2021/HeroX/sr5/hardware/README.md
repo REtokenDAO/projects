@@ -25,4 +25,4 @@
 | crushhhh                 | [@crushhhhxo](https://twitter.com/crushhhhxo) |
 
 # Project Keywords
-Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced,
+Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced
