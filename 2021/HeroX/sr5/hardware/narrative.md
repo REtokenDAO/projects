@@ -1,6 +1,6 @@
 **Problem**
 
-Unfortunately today, most new homes get built without using the latest American-Made solar technology. Lack of adoption in underserved neighborhoods is the highest due to the cost of installation of solar technology. Our position is that builders don't have a financial incentive to plan intententional solar-based communities and most families don't have ready access to the capital. We are solving both sides of the incentive and capital stack, and doing it in a net-positive energy solution.
+Unfortunately today, most new homes get built without using the latest American-Made solar technology. Lack of adoption in underserved neighborhoods is the highest due to the cost of installation of solar technology. Our position is that builders don't have a financial incentive to plan intentional solar-based communities and most families don't have ready access to the capital. We are solving both sides of the incentive and capital stack, and doing it in a net-positive energy solution.
 
 **Solution**
 
