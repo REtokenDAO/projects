@@ -2,12 +2,14 @@
 
 
 # Problem
+[<img src="https://trello.com/1/cards/615bc500969f9903cc3696c2/attachments/615c7905b40d0e18f31f6718/download/State-Solar-Spotlight_CO_SEIA.org_2021-09.png" width=350 align=right>](https://www.seia.org/sites/default/files/2021-09/Colorado.pdf)
 
 Unfortunately today, most new homes get built without using the latest American-Made solar technology. Lack of adoption in underserved neighborhoods is the highest due to the cost of installation of solar technology. Our position is that builders don't have a financial incentive to plan intentional solar-based communities and most families don't have ready access to the capital. We are solving both sides of the incentive and capital stack, and doing it in a net-positive energy solution.
 
 In Denver in 2021, the average home sold for $641,000 and the average solar installation was over $17,000. Rent is predicted to increase another 25% from its already high average of $1,800 a month. For most families, solar installations are simply out of reach. Our solution turns entire neighborhoods into microgrids with advanced capabilities. 
 
 # Solution
+[<img src="https://storage.googleapis.com/poapmedia/tokentowndao-livestream-exclusive-poap-for-streamyard-participants-2021-logo-1633392258356.png" width=275 align=right>](https://github.com/REtokenDAO/projects/tree/main/2021/HeroX/sr5/hardware)
 
 Improve the adoption of cutting-edge American Made solar technology by creating "next-gen" subdivisions called TokenTown. TokenTown is going to be a model neighborhood we can deploy all over the country. Every house will have solar by design for three reasons: 1) the extra power generated can support larger households and promote community living without significantly higher costs; 2) the power not needed by the house can support super-computers that create cryptocurrency "cryptomines" which are currently cost prohibitive because of their excessive power consumption; and 3) the value of the cryptocurrency can be used to offset rent or mortgage costs. This self-contained cycle is sustainable, affordable, and perpetual which can provide affordable housing and most important to us, use solar power to turn renters into owners. Even after accounting for the cryptomines, we expect out solar deployment to end up net energy positive.
 
@@ -17,7 +19,10 @@ TokenTown will likely be financed through SEC registered Regulation Crowdfunding
 
 # Accomplishments and Team
 
+## Team Summary
 Our diverse leadership team includes several people of color, women, and a person with a disability. We represent multiple states in the US. We have a variety of technical expertise in real estate, renewable energy, institutional finance, IT, blockchain, decentralized finance, and community building. In just the 10 days we've been aware of this challenge, we've grown a community of over 150 people interested in being part of this effort. We are currently launching a governance NFT (non-fungible token) limited to 32 at 1 Ethereum (~$3,400) each, as social proof that there is a high demand for this type of housing. We launched two DAOs in Wyoming (REtoken DAO and TokenTown DAO) and minted new social tokens. We held 9 working groups, wrote our plan, got partner vision buy in, and laid out a plan to solve solar-based affordable housing in the US.
+
+## Grand Prize Winner: Gitcoin Decentralized Governance Hackathon
 
 ## Team Table
 
@@ -36,6 +41,8 @@ Our diverse leadership team includes several people of color, women, and a perso
 | Everything Blockchain    |  | Everything Blockchain is a crypto content creator. Started off as an investor in 2016 before living and breathing crypto. A blockchain advocate who likes to write about upcoming technologies in blockchain space and that interest has lead him to DAOs. |
 
 # Plan
+
+## Ready! [R5]
 
 Additionally, we are connecting with American made solar solutions partners who are equipped to help us install an entire new community, reviewing SEC and FINRA requirements for this type of offering and interviewing potential vendors and transfer agents. We're in discussion with a Colorado based home builder with capacity for TokenTown who can deliver quality construction for significantly lower prices than standard construction. We're reviewing local permitting and zoning requirements to maximize potential income opportunities for community members. We are already a functioning Decentralized Autonomous Organization, a legal business structure that allows for democratized governance and are familiar with the infrastructure needed to support it. We are also in talks with the largest Opportunity Zone Fund consultant in the US, who is in support of our effort.
 
@@ -60,3 +67,9 @@ After we raise our social proof governance round, we expect to finalize our Sola
 > Naming Convention:
 > 
 > tt = "TokenTown" / 0 (for "Season 0) / wg = "working group" / # = what number of working group
+
+## Set! [R5]
+> *insert items from the summary slide*
+
+## Go! [R5]
+> *insert items from the summary slide*
