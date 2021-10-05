@@ -22,7 +22,8 @@
 | Daks Balakrishnan        | [LinkedIn](https://www.linkedin.com/in/daks) / [@daks](https://twitter.com/daks) |
 | Poopster Wilson          | [@0xYieldFarmer](https://twitter.com/0xYieldFarmer) |
 | Chadd McNicholas         | [LinkedIn](https://www.linkedin.com/in/thechadd/) / [@thechadd](https://twitter.com/thechadd) |
-| crushhhh                 | [@crushhhhxo](https://twitter.com/crushhhhxo) |
+| Amanda Battaglia         | [LinkedIn](https://www.linkedin.com/in/aaxbattaglia//) / [@crushhhhxo](https://twitter.com/crushhhhxo) |
+| Ryan Stokes              | [@rynstones1](https://twitter.com/rynstones1) |
 
 # Project Keywords
 Community, Affordable Housing, Real Estate, Tokenization, Digital Assets, Security Tokens, Crowdfunding, Crowdsourced
