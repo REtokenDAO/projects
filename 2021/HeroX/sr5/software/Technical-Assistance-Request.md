@@ -1,5 +1,5 @@
 # Technical Assistance Request
-<img src="https://trello.com/1/cards/611c8059f5626f324810f083/attachments/615939a1eaa97511c9215ed3/download/logo_REtoken.DAO_2021-09-18T1800.png" width=300 align=right>
+[<img src="https://storage.googleapis.com/poapmedia/tokentowndao-livestream-exclusive-poap-for-streamyard-participants-2021-logo-1633392258356.png" width=275 align=right>](https://github.com/REtokenDAO/projects/tree/main/2021/HeroX/sr5/software)
 
 ## Software Track | American-Made Solar Prize Round 5
 
