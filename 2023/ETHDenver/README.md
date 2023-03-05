@@ -24,6 +24,12 @@ At #ETHDenver2023 we are excited to introduce Private Property Token™!!
 
 https://www.youtube.com/watch?v=jDzHL8XIFec
 
+## Private Property Token™ Factory (ERC-1404 SmartContract)
+
+> Link to repo: [REtokenDAO/Private-Property-Token](https://github.com/REtokenDAO/Private-Property-Token)
+> 
+> *We decided to fork TokenSoft's ERC-1404 and will be improving upon that.*
+
 # REtokenDAO Project / Social Media Links
 
 <img src="https://github.com/REtokenDAO/docs/blob/main/.gitbook/assets/logo_REtokenDAO.png" width=300 align=right>
@@ -37,6 +43,7 @@ https://www.youtube.com/watch?v=jDzHL8XIFec
 | [Facebook](https://www.facebook.com/REtokenDAO) | 54 Followers |
 
 # Version History
+* v0.4.2 - 05Mar2023 04:20 AM MST - final updates before submitting BUIDLbox project | [Yonks](https://github.com/YonksTEAM)
 * v0.3.0 - 05Mar2023 03:59 AM MST - added YouTube video to replace section details | [Yonks](https://github.com/YonksTEAM)
 * v0.2.2 - 05Mar2023 00:24 AM MST - renamed section [2] | [Yonks](https://github.com/YonksTEAM)
 * v0.2.1 - 05Mar2023 00:11 AM MST - slight formatting update | [Yonks](https://github.com/YonksTEAM)
