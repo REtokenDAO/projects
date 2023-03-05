@@ -18,25 +18,11 @@ At #ETHDenver2023 we are excited to introduce Private Property Token™!!
 * [Yonks](https://github.com/YonksTEAM) | [@REtokenDAO](https://github.com/REtokenDAO/) / Co-Founder
 * [MrsYonks](https://github.com/MrsYonks) | [@REtokenDAO](https://github.com/REtokenDAO/) / Co-Founder
 
-# [1] Introducing: Private Property Token™
-We simplify Real Estate investing with Web3 innovation. We #BUIDL our Polygon ERC-1404 Private Property Token Factory. This is a critical role within our Web3, BMT - Buy, Monetize, Tokenize™, strategy.
+# [VIDEO] Private Property Token™ by REtokenDAO launched: #ETHDenver2023 #BUIDLathon
 
-## [2] Scalable Web3 Models using Polygon + USDC
+<img src="https://i.ytimg.com/vi/jDzHL8XIFec/maxresdefault.jpg" width=300 align=middle>
 
-
-## [3] What is a Private Property Token™?
-
-
-## [4] Property Token™ (SmartContract Management) w/ OpenZeppelin Defender
-
-
-## [5] Private Property Token™: Use Cases
-
-
-## [6] ReFi: “Creating Shared Value” Model (a differentiator)
-
-
-## [7] Closing (?)
+https://www.youtube.com/watch?v=jDzHL8XIFec
 
 # REtokenDAO Project / Social Media Links
 
@@ -51,6 +37,7 @@ We simplify Real Estate investing with Web3 innovation. We #BUIDL our Polygon ER
 | [Facebook](https://www.facebook.com/REtokenDAO) | 54 Followers |
 
 # Version History
+* v0.3.0 - 05Mar2023 03:59 AM MST - added YouTube video to replace section details | [Yonks](https://github.com/YonksTEAM)
 * v0.2.2 - 05Mar2023 00:24 AM MST - renamed section [2] | [Yonks](https://github.com/YonksTEAM)
 * v0.2.1 - 05Mar2023 00:11 AM MST - slight formatting update | [Yonks](https://github.com/YonksTEAM)
 * v0.2.0 - 05Mar2023 00:05 AM MST - updated sections similar to presentation deck | [Yonks](https://github.com/YonksTEAM)
