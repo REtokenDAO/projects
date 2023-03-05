@@ -21,7 +21,7 @@ At #ETHDenver2023 we are excited to introduce Private Property Token™!!
 # [1] Introducing: Private Property Token™
 We simplify Real Estate investing with Web3 innovation. We #BUIDL our Polygon ERC-1404 Private Property Token Factory. This is a critical role within our Web3, BMT - Buy, Monetize, Tokenize™, strategy.
 
-## [2] Composability: Polygon + USDC
+## [2] Scalable Web3 Models using Polygon + USDC
 
 
 ## [3] What is a Private Property Token™?
@@ -51,6 +51,7 @@ We simplify Real Estate investing with Web3 innovation. We #BUIDL our Polygon ER
 | [Facebook](https://www.facebook.com/REtokenDAO) | 54 Followers |
 
 # Version History
+* v0.2.2 - 05Mar2023 00:24 AM MST - renamed section [2] | [Yonks](https://github.com/YonksTEAM)
 * v0.2.1 - 05Mar2023 00:11 AM MST - slight formatting update | [Yonks](https://github.com/YonksTEAM)
 * v0.2.0 - 05Mar2023 00:05 AM MST - updated sections similar to presentation deck | [Yonks](https://github.com/YonksTEAM)
 * v0.1.0 - 28Feb2023 06:35 AM MST - initial page | [Yonks](https://github.com/YonksTEAM)
